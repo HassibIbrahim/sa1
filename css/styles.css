@@ -6,3 +6,34 @@ h1.jumbotron {
   background-color:#ffe699 ;
   margin-top: 0;
 }
+
+.row-test{
+display: flex;
+}
+
+.test{
+flex: 1;
+}
+
+#about {
+flex: 1;
+padding-left: 3vh;
+margin-top: .5vh;
+background-color: #A058FC;
+}
+
+.aboutHeaders {
+color: #ecc679;
+}
+
+.blackNames {
+color: Black;
+}
+
+.whiteNames{
+color: White;
+}
+
+#username {
+color: #C46B41;
+}
