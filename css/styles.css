@@ -37,3 +37,16 @@ color: White;
 #username {
 color: #C46B41;
 }
+
+#numberList {
+  color: blue;
+  font-family: Courier;
+  margin-top: 5vh;
+  font-size: large;
+}
+
+img {
+  width: auto;;
+  height: 3vh;
+  margin-left: 1vh;
+}
